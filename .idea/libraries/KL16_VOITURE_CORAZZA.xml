@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KL16_VOITURE_CORAZZA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JavaBaseKL16_1/KL16_VOITURE_CORAZZA_voitureX/src/net/ent/etrs/model/commons/utils/KL16_VOITURE_CORAZZA.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
